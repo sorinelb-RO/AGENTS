@@ -1,0 +1,6 @@
+interface:
+  default_prompt: Vrei să evaluăm nivelul tău actual de coerență sau să explorăm metode
+    pentru a-l îmbunătăți?
+  display_name: Coherens GLOBAL
+  short_description: COHERENS GLOBAL – un agent AI care te ajută să înțelegi și să
+    cu

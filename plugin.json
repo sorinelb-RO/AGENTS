@@ -1,0 +1,30 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "Sorinel Balan"
+  },
+  "description": "COHERENS GLOBAL – un agent AI care te ajută să înțelegi și să cultivi coerența interioară și socială prin reflecție, criterii clare și feedback orientativ, fără a impune metode sau dogme.",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "capabilities": [
+          "skills"
+        ],
+        "category": "Education & Research",
+        "composerIcon": "./assets/gpt-icon.png",
+        "defaultPrompt": [
+          "Vrei să evaluăm nivelul tău actual de coerență sau să explorăm metode pentru a-l îmbunătăți?",
+          "Care sunt criteriile prin care pot decide singur cea mai bună practică?",
+          "Cum ar trebui să se simtă o stare autentică de liniște interioară?"
+        ],
+        "developerName": "Sorinel Balan",
+        "displayName": "Coherens GLOBAL",
+        "logo": "./assets/gpt-icon.png",
+        "longDescription": "COHERENS GLOBAL – un agent AI care te ajută să înțelegi și să cultivi coerența interioară și socială prin reflecție, criterii clare și feedback orientativ, fără a impune metode sau dogme.",
+        "shortDescription": "COHERENS GLOBAL – un agent AI care te ajută să înțelegi și să cultivi coerența interioară și socială prin reflecție, criterii clare și feedback orientativ, fără a impune metode sau dogme."
+      }
+    }
+  },
+  "name": "gpt-def166adb6b7741b120d14368575988d",
+  "version": "0.7.1+bundle.847591a2deac869a7746c65074c33bcc"
+}
