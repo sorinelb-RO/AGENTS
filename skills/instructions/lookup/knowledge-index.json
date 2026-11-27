@@ -1,44 +1,16 @@
 {
   "files": [
     {
-      "name": "7-Skills-NWAMA-Handbook.pdf",
-      "path": "references/7-Skills-NWAMA-Handbook.pdf"
+      "name": "SCI-AI.docx",
+      "path": "references/SCI-AI.docx"
     },
     {
-      "name": "7-Skills-NWAMA.md",
-      "path": "references/7-Skills-NWAMA.md"
+      "name": "SCI.pdf",
+      "path": "references/SCI.pdf"
     },
     {
-      "name": "COHERENS GLOBAL-KB.docx",
-      "path": "references/COHERENS GLOBAL-KB.docx"
-    },
-    {
-      "name": "REINTEGRATION-METHOD-EVALUATOR.md",
-      "path": "references/REINTEGRATION-METHOD-EVALUATOR.md"
-    },
-    {
-      "name": "confident-skill.md",
-      "path": "references/confident-skill.md"
-    },
-    {
-      "name": "editor-skill.md",
-      "path": "references/editor-skill.md"
-    },
-    {
-      "name": "field-independence-skill.md",
-      "path": "references/field-independence-skill.md"
-    },
-    {
-      "name": "index.html",
-      "path": "references/index.html"
-    },
-    {
-      "name": "librarian-skill.md",
-      "path": "references/librarian-skill.md"
-    },
-    {
-      "name": "roommate-skill.md",
-      "path": "references/roommate-skill.md"
+      "name": "SCI-FRAMEWORK-v1.0-Revised-Edition.docx",
+      "path": "references/SCI-FRAMEWORK-v1.0-Revised-Edition.docx"
     }
   ],
   "guidelines": "Resolve each files[].path relative to the directory containing this skill's SKILL.md (the skill root), not this index's lookup/ directory or the current working directory. Use that directory for filesystem reads or append the path unchanged to the skill's root resource URI. This index is not a complete inventory of the plugin's files. If a needed file is absent from this index or cannot be found or read at its indexed path, continue normal file discovery using the skill's available file listing or installed files; do not stop or conclude that the file is unavailable based on this index alone. This index is primarily a GPT migration helper that maps original GPT upload names to packaged filenames in the plugin."

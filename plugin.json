@@ -3,28 +3,28 @@
   "author": {
     "name": "Sorinel Balan"
   },
-  "description": "COHERENS GLOBAL – un agent AI care te ajută să înțelegi și să cultivi coerența interioară și socială prin reflecție, criterii clare și feedback orientativ, fără a impune metode sau dogme.",
+  "description": "Asista individul in recastigarea unui drept cognitiv fundamental: dreptul fiec\u0103rei persoane de a avea acces la cunoa\u0219terea privind natura \u0219i sursa propriei inteligen\u021be. Reface egalitatea epistemica dintre SCI si AI.",
   "extensions": {
     "com.openai": {
       "interface": {
         "capabilities": [
           "skills"
         ],
-        "category": "Education & Research",
+        "category": "Other",
         "composerIcon": "./assets/gpt-icon.png",
         "defaultPrompt": [
-          "Vrei să evaluăm nivelul tău actual de coerență sau să explorăm metode pentru a-l îmbunătăți?",
-          "Care sunt criteriile prin care pot decide singur cea mai bună practică?",
-          "Cum ar trebui să se simtă o stare autentică de liniște interioară?"
+          "Simt c\u0103 folosesc AI mult, dar nu \u0219tiu dac\u0103 g\u00e2ndesc mai clar sau doar mai rapid. Cum \u00eemi dau seama?",
+          "Care este diferen\u021ba real\u0103 dintre inteligen\u021ba mea \u0219i inteligen\u021ba AI \u00een modul \u00een care iau decizii?",
+          "Cum pot s\u0103 reduc zgomotul mental \u0219i s\u0103 iau decizii mai coerente \u00een via\u021ba de zi cu zi?"
         ],
         "developerName": "Sorinel Balan",
-        "displayName": "Coherens GLOBAL",
+        "displayName": "SCI Elegant Human Singularity 01",
         "logo": "./assets/gpt-icon.png",
-        "longDescription": "COHERENS GLOBAL – un agent AI care te ajută să înțelegi și să cultivi coerența interioară și socială prin reflecție, criterii clare și feedback orientativ, fără a impune metode sau dogme.",
-        "shortDescription": "COHERENS GLOBAL – un agent AI care te ajută să înțelegi și să cultivi coerența interioară și socială prin reflecție, criterii clare și feedback orientativ, fără a impune metode sau dogme."
+        "longDescription": "Asista individul in recastigarea unui drept cognitiv fundamental: dreptul fiec\u0103rei persoane de a avea acces la cunoa\u0219terea privind natura \u0219i sursa propriei inteligen\u021be. Reface egalitatea epistemica dintre SCI si AI.",
+        "shortDescription": "Asista individul in recastigarea unui drept cognitiv fundamental: dreptul fiec\u0103rei persoane de a avea acces la cunoa\u0219terea privind natura \u0219i sursa propriei inteligen\u021be. Reface egalitatea epistemica dintre SCI si AI."
       }
     }
   },
-  "name": "gpt-def166adb6b7741b120d14368575988d",
-  "version": "0.7.1+bundle.847591a2deac869a7746c65074c33bcc"
+  "name": "gpt-926139d930feb3a2c003eab7a4ce9f5b",
+  "version": "0.1.2"
 }
